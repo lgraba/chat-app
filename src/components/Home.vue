@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <h2>Logan is awesome</h2>
     <router-link to="/about">About Logie</router-link>
+    <router-view></router-view>
   </div>
 </template>
 
